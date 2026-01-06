@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "first37",
+      "request": "launch",
+      "mainClass": "first37",
+      "projectName": "first.java_a74920f4"
+    },
+    {
+      "type": "java",
+      "name": "first29",
+      "request": "launch",
+      "mainClass": "first29",
+      "projectName": "first.java_a74920f4"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Admin/OneDrive/Desktop/first.java",
+      "program": "c:/Users/Admin/OneDrive/Desktop/first.java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

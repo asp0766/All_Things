@@ -1,0 +1,2 @@
+# python keywords =  false ,class, finally , is , return , none ,continue, for , lambda ,try ,true , def , from ,nonlocal ,while
+    #                   del ,global ,net , with , as , elif , if , or , yield 
