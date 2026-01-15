@@ -10,11 +10,5 @@
     "desc": "Smart solution for customized lens prescription using advanced technology. Computer vision-based system for accurate prescription measurement and customization.",
     "image": "profile",
     "category": "computer-vision"
-  },
-  {
-    "name": "Health Recognition App",
-    "desc": "Camera-based health monitoring system with family notification features. Uses AI to detect health issues and automatically notifies family members with photos.",
-    "image": "profile",
-    "category": "mobile-app"
   }
 ]
