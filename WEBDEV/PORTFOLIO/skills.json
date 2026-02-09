@@ -1,0 +1,130 @@
+[
+  {
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  },
+  {
+    "name": "ExpressJS",
+    "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+  },
+  {
+    "name": "Sass",
+    "icon": "https://img.icons8.com/color/48/000000/sass.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "C++",
+    "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+  },
+  {
+    "name": "Git VCS",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "WordPress",
+    "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+  },
+  {
+    "name": "Pandas",
+    "icon": "https://img.icons8.com/color/48/pandas.png"
+  },
+  {
+    "name": "NumPy",
+    "icon": "https://img.icons8.com/color/48/numpy.png"
+  },
+  {
+    "name": "TensorFlow",
+    "icon": "https://img.icons8.com/color/48/tensorflow.png"
+  },
+  {
+    "name": "Scikit-learn",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+  },
+  {
+    "name": "Matplotlib",
+    "icon": "https://matplotlib.org/_static/images/logo2.svg"
+  },
+  {
+    "name": "OOP",
+    "icon": "https://img.icons8.com/external-flat-juicy-fish/48/external-oop-coding-and-development-flat-flat-juicy-fish.png"
+  },
+  {
+    "name": "Django",
+    "icon": "https://img.icons8.com/material-outlined/48/ffffff/django.png"
+  },
+  {
+    "name": "System Design",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-system-design-computer-programming-flaticons-lineal-color-flat-icons.png"
+  },
+  {
+    "name": "Operating System",
+    "icon": "https://img.icons8.com/color/48/operating-system.png"
+  },
+  {
+    "name": "Computer Networks",
+    "icon": "https://img.icons8.com/external-itim2101-lineal-color-itim2101/48/external-network-computer-network-itim2101-lineal-color-itim2101.png"
+  },
+  {
+    "name": "DBMS",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-database-computer-programming-flaticons-lineal-color-flat-icons.png"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/docker.png"
+  },
+  {
+    "name": "Kubernetes",
+    "icon": "https://img.icons8.com/color/48/kubernetes.png"
+  }
+]

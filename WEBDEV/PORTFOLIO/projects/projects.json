@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AI Assistant – ChatGPT-like Project",
+    "desc": "Built an AI-powered assistant with voice communication capabilities, similar to ChatGPT. Features natural language processing, voice input/output, and intelligent conversation capabilities.",
+    "image": "profile",
+    "category": "ai-ml"
+  },
+  {
+    "name": "Specs Prescription Lens Solution",
+    "desc": "Smart solution for customized lens prescription using advanced technology. Computer vision-based system for accurate prescription measurement and customization.",
+    "image": "profile",
+    "category": "computer-vision"
+  }
+]
