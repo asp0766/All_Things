@@ -760,28 +760,91 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
-.experience .timeline {
-  position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
+/* ===== Experience Section ===== */
+
+.experience {
+  background: #0f172a;
+  padding: 60px 0;
 }
-.experience .timeline::after {
-  content: "";
-  position: absolute;
-  width: 6px;
-  background: #020133;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-  z-index: -2;
+
+.experience .heading {
+  text-align: center;
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 40px;
 }
-.experience .container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
+
+.experience .heading span {
+  color:rgb(255, 230, 0);
 }
+
+/* Container */
+.experience .box-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Card */
+.experience .box {
+  background: #111827;
+  border-radius: 15px;
+  padding: 25px 30px;
+  margin: 15px;
+  max-width: 850px;
+  width: 100%;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  transition: 0.3s ease;
+}
+
+/* Hover effect like project cards */
+.experience .box:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.6);
+}
+
+/* Role Title */
+.experience .box h3 {
+  font-size: 24px;
+  color: rgb(115, 3, 167);
+  margin-bottom: 5px;
+}
+
+/* Company */
+.experience .company {
+  font-size: 16px;
+  color: #9ca3af;
+  font-weight: 600;
+}
+
+/* Duration */
+.experience .box h4 {
+  color: #ffffff;
+  margin: 6px 0 15px;
+  font-weight: 500;
+}
+
+/* Description */
+.experience .box p {
+  color: #d1d5db;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+/* Bullet Points */
+.experience ul {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.experience ul li {
+  color: #e5e7eb;
+  margin-bottom: 8px;
+  line-height: 1.6;
+  font-size: 14.5px;
+}
+
 /*circles on timeline*/
 .experience .container::after {
   content: "\f0b1";
@@ -836,7 +899,6 @@ header .navbar ul li a:hover {
   left: -16px;
 }
 .experience .content {
-  background-color: #f68c09;
   position: relative;
   border-radius: 6px;
 }
